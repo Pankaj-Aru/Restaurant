@@ -56,56 +56,44 @@ body{
 }
 
 
-@media (max-width:575px){
+
+
+
+
+
+
+
+
+@media (min-width:576px){
     .container{
         max-width:540px;
     }
-    html{
-        font-size:10px;
-    }
 }
-
- @media (min-width:576px){
-    .container{
-        max-width:540px;
-    }
-    html{
-        font-size:12px;
-    }
-}
-
-
 @media (min-width: 768px) {
     .container {
       max-width: 720px;
     }
-    html{
-        font-size:12px;
-    }
   }
-
- 
-
-@media (min-width: 992px) {
+  
+  @media (min-width: 992px) {
     .container {
       max-width: 960px;
     }
-    html{
-        font-size:14px;
-    }
   }
   
-
-
-
   @media (min-width: 1200px) {
     .container {
       max-width: 1152px;
     }
-    html{
-        font-size: 18px;
-    }
   }
+
+
+
+
+
+
+
+
 
   
   
